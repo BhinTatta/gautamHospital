@@ -10,16 +10,19 @@
 	box-shadow:  13px 13px 27px #9b9b9b,
              -13px -13px 27px #ffffff;}
 .neuhem{
+
+    background: #EFEEEE;
+    -moz-box-shadow: inset -8px -8px 25px -3px rgba(255, 255, 255, 0.5), inset 8px 8px 12px -3px rgba(0, 0, 0, 0.12);
+    -webkit-box-shadow: inset -8px -8px 25px -3px rgba(255, 255, 255, 0.5), inset 8px 8px 12px -3px rgba(0, 0, 0, 0.12);
+    box-shadow: inset -8px -8px 25px -3px rgba(255, 255, 255, 0.5), inset 8px 8px 12px -3px rgba(0, 0, 0, 0.12);
+
+}
+.neublue{
 border-radius: 32px;
 background: #0f1b4f;
 box-shadow:  14px 14px 28px #070d25,
              -14px -14px 28px #172979;
 }
-.neublue{
-	border-radius: 40px;
-	background: #0f1b4f;
-	box-shadow:  12px 12px 24px #0a1236,
-             -12px -12px 24px #142468;}
 /*Navbar---------------------------------------*/
 *{
 	margin: 0;
